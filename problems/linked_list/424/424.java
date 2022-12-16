@@ -1,3 +1,5 @@
+// 連結リストの逆表示
+
 class SinglyLinkedListNode<E> {
     public E data;
     public SinglyLinkedListNode<E> next;

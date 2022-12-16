@@ -1,3 +1,5 @@
+// SinglyLinkedListクラス
+
 class Item {
     public int data;
     public Item next;

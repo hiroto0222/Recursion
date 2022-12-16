@@ -1,3 +1,5 @@
+// 偶数番目を2倍
+
 class SinglyLinkedListNode<E> {
     public E data;
     public SinglyLinkedListNode<E> next;

@@ -1,3 +1,5 @@
+// 連結リストのインデックス検索
+
 class SinglyLinkedListNode<E> {
     public E data;
     public SinglyLinkedListNode<E> next;

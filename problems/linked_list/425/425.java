@@ -1,3 +1,5 @@
+// DoublyLinkedListクラス
+
 class Node {
     public int data;
     public Node prev;

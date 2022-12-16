@@ -1,3 +1,5 @@
+// 片方向リストのノードの削除
+
 class SinglyLinkedListNode<E> {
     public E data;
     public SinglyLinkedListNode<E> next;
